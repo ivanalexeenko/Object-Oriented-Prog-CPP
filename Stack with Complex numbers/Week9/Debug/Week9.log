@@ -1,0 +1,4 @@
+﻿  Week9_Task1.cpp
+d:\visual studio 2015\projects\week9\week9\mycomplex.h(68): warning C4715: 'Complex::CompareModul': not all control paths return a value
+  Week9.vcxproj -> D:\Visual Studio 2015\Projects\Week9\Debug\Week9.exe
+  Week9.vcxproj -> D:\Visual Studio 2015\Projects\Week9\Debug\Week9.pdb (Partial PDB)
